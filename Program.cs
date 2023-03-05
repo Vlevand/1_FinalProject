@@ -8,6 +8,7 @@ string[] arrayStrResult = ArrayStrUpToTreeChar(arrayStr);
 Console.Write(" -> ");
 PrintArray(arrayStrResult);
 
+
 string[] ArrayStrUpToTreeChar(string[] array)
 {
     int size = 0;
